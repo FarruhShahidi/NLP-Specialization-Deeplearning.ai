@@ -1,1 +1,1 @@
-# NLP-Specialization-Coursera
+# NLP-Specialization-Deeplearning.ai
